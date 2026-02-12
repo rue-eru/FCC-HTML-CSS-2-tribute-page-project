@@ -59,4 +59,4 @@ I wish I could go to his concert in the future and thank him in person but alas.
 
 | My official [FreeCodeCamp Responsive Web Design Certificate](https://www.freecodecamp.org/certification/fcc058fd235-9bca-44b6-b085-10ee4a9bdda6/responsive-web-design) |
 |---|
-| ![Certificate](./images/responsive-web-design.png) |
+| ![Certificate](./public/responsive-web-design.png) |
