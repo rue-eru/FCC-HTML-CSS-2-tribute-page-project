@@ -8,10 +8,6 @@ An old project build back in 2024 as the start of my journey and posted here to 
 
 The project only consists of **HTML** + **CSS** and was made as a part of FreeCodeCamp's Responsive Web Design course.
 
->[My official FCC's Certificate](https://www.freecodecamp.org/certification/fcc058fd235-9bca-44b6-b085-10ee4a9bdda6/responsive-web-design)
-
-![Certificate](./public/responsive-web-design.png)
-
 ---
 
 ## 📋 Project Requirements
@@ -47,7 +43,9 @@ Even today I like how that page turned out to be visually. Even as a second page
 Also the person chosen for the Tribute Page is very significant to me.<br>He was the one who inspared me to continue learning Japanese back then. <br>
 I wish I could go to his concert in the future and thank him in person but alas. <br>Rest in peace, Reita 🤍
 
-![Page Gif](./public/demo.gif)
+| **Tribute Page Preview** |
+|---|
+| ![Page Gif](./public/demo.gif) |
 
 <div align="right"><i>submitted to FreeCodeCamp on Oct 11, 2024</i></div>
 
@@ -59,4 +57,6 @@ I wish I could go to his concert in the future and thank him in person but alas.
 
 ---
 
-*Part of my [FreeCodeCamp journey](https://www.freecodecamp.org/certification/fcc058fd235-9bca-44b6-b085-10ee4a9bdda6/responsive-web-design)*
+| My official [FreeCodeCamp Responsive Web Design Certificate](https://www.freecodecamp.org/certification/fcc058fd235-9bca-44b6-b085-10ee4a9bdda6/responsive-web-design) |
+|---|
+| ![Certificate](./images/responsive-web-design.png) |
